@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date: 11.3.2025
+## Register Number: 212224110052
+## Name: S.D. Surendar
 ## Problem Title
 SIH 1653: Web based Selector-Applicant Simulation Software
 ## Problem Description
@@ -28,12 +28,14 @@ to let alumni showcase their professional achievements or projects.
 
 ## Proposed Solution / Architecture Diagram
 
-"C:\Users\admin\Pictures\Screenshots\Screenshot 2025-03-11 132553.png"
+   ![Screenshot 2025-03-11 132553](https://github.com/user-attachments/assets/5de34bfa-da72-4f11-994f-6e5770c1dca8)
+
 
 ## Use Cases
-
- "C:\Users\admin\Pictures\Screenshots\Screenshot 2025-03-11 132721.png"
  
+ ![Screenshot 2025-03-11 132721](https://github.com/user-attachments/assets/2a94f747-cf19-4e7c-9766-9ce8cff5b961)
+
+   
 ## Technology Stack
 
 Front-End: React.js (Web), Flutter (Mobile App) for cross-platform compatibility.
